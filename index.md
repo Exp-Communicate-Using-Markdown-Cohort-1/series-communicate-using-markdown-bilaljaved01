@@ -1,3 +1,3 @@
 # heading1 
 #### heading2
-i implemented headings
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
